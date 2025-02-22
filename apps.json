@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "App de Física",
+        "descricao": "Um aplicativo interativo para aprender conceitos de física.",
+        "preco": "R$ 19,90",
+        "imagem": "app.jpg"
+    },
+    {
+        "nome": "Simulador Químico",
+        "descricao": "Experimentos e simulações químicas realistas.",
+        "preco": "R$ 24,90",
+        "imagem": "app.jpg"
+    },
+    {
+        "nome": "Calculadora Científica",
+        "descricao": "Uma poderosa calculadora para estudantes e profissionais.",
+        "preco": "Grátis",
+        "imagem": "app.jpg"
+    }
+]
